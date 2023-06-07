@@ -3,6 +3,13 @@ src-git luci https://github.com/immortalwrt/luci.git
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://github.com/openwrt/telephony.git
 src-git 3Ginfo https://github.com/4IceG/luci-app-3ginfo-lite.git
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git 3Ginfo https://github.com/4IceG/luci-app-3ginfo-lite.git
+src-git Modem https://github.com/4IceG/luci-app-modemband.git
+src-git SMS https://github.com/4IceG/luci-app-sms-tool.git
+src-git atinout https://github.com/4IceG/luci-app-atinout-mod.git
 #src-git-full video https://github.com/openwrt/video.git
 #src-git-full targets https://github.com/openwrt/targets.git
 #src-git-full oldpackages http://git.openwrt.org/packages.git
